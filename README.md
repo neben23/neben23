@@ -21,12 +21,6 @@
 
 **BDD** : PostgreSQL · MySQL
 
-### 📊 Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=neben23&show_icons=true&theme=radical&hide_border=true)
-
----
-
 ###  Contact
 
 - 📧 hansen.benjamin.pro@gmail.com
