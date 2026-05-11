@@ -8,7 +8,7 @@
 
 - 🎓 Étudiant en informatique
 -  Passionné par Linux, le DevOps et la programmation bas/haut niveau
-- 🐧 Environnement : Neovim · Zsh · tmux · Arch Linux
+- 🐧 Environnement : Neovim · Zsh · Arch Linux
 - 📍 Arlon, Belgique
 
 ### 🛠️ Compétences
