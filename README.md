@@ -9,11 +9,11 @@
 - 🎓 Étudiant en informatique
 -  Passionné par Linux, le DevOps et la programmation bas/haut niveau
 - 🐧 Environnement : Neovim · Zsh · Arch Linux
-- 📍 Arlon, Belgique
+- 📍 Luxembourg, Belgique
 
 ### 🛠️ Compétences
 
-**Langages** : C · C++ · Python · PHP · Bash
+**Langages** : C · C++ · C# · PHP · Bash
 
 **Web** : HTML5 · CSS3 · JavaScript
 
