@@ -13,7 +13,7 @@
 
 ### 🛠️ Compétences
 
-**Langages** : C · C++ · C# · PHP · Bash
+**Langages** : C · C++ · C# · PHP · Bash · Python
 
 **Web** : HTML5 · CSS3 · JavaScript
 
