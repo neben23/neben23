@@ -1,14 +1,14 @@
 # 👋 Benjamin Hansen
 
-> Étudiant en informatique | Linux enthusiast | DevOps & Développement
+> Étudiant en informatique | Linux enthusiast
 
 ---
 
 ### 📌 À propos
 
 - 🎓 Étudiant en informatique
--  Passionné par Linux, le DevOps et la programmation bas/haut niveau
-- 🐧 Environnement : Neovim · Zsh · Arch Linux
+-  Passionné par Linux et la programmation bas/haut niveau
+- 🐧 Environnement : Arch Linux · Neovim · Zsh 
 - 📍 Luxembourg, Belgique
 
 ### 🛠️ Compétences
